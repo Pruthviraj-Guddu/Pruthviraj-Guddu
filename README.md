@@ -34,7 +34,7 @@ Here are some of my featured works:
 
 | Project           | Description                            | Live Demo            |
 | ----------------- | -------------------------------------- | -------------------- |
-| **JIT-Davangere notes**   | reading meterial for students.     | 🔗 [View Website](https://pruthviraj-guddu.github.io/JIT-Davangere/) |
+| **JIT-Davangere notes**   | reading meterial for students.     | 🔗 [View Website](https://pruthviraj-guddu.github.io/VTU-Notes/) |
 | **Pathribuilders**   | wrbsite built for Pathribuilders. | 🔗 [View Website](https://pathribuilders.com/) |
 | **random-cartograph** | Another project you want to highlight. | 🔗 [View Website](https://pruthviraj-guddu.github.io/random-cartograph/) |
 
